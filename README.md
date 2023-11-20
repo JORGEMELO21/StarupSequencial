@@ -1,0 +1,2 @@
+# StarupSequencial
+projeto1
